@@ -1,8 +1,7 @@
 # Delivery-Business-Insights
 Optimizing Logistics Operations Through Feature Engineering | Delhivery  
-
-## Overview  
-This project focuses on optimizing logistics operations for Delhivery by leveraging feature engineering and data analysis. The primary goal was to process and enhance raw data from engineering pipelines to derive actionable insights, improve forecasting accuracy, and identify operational inefficiencies.  
+•	Delivered actionable insights on peak delivery times, route efficiency, and resource optimization, improving logistics forecasting and operational planning.
+•	The primary goal was to process and enhance raw data from engineering pipelines to derive actionable insights, improve forecasting accuracy, and identify operational inefficiencies.  
 
 ## Problem Statement  
 Delhivery, a leading logistics provider, required an in-depth analysis of its delivery data to:  
@@ -34,10 +33,6 @@ Delhivery, a leading logistics provider, required an in-depth analysis of its de
 - **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn  
 - **Techniques**: Feature Engineering, Data Cleaning, Hypothesis Testing, Outlier Treatment  
 
-## Dataset  
-The dataset comprised fields such as trip times, distances, route types, and multi-segment delivery records.  
-- **Features Engineered**: Delivery duration, aggregated trip metrics, time trends, and route efficiency factors.  
-
 ## Business Impact  
 This project provided actionable strategies to:  
 - Streamline data engineering outputs into meaningful features for downstream forecasting models.  
@@ -46,7 +41,3 @@ This project provided actionable strategies to:
 ## Future Scope  
 - Integrate real-time data to continuously refine models and improve operational insights.  
 - Explore advanced machine learning techniques for route optimization and demand forecasting.
-
----
-
-This version integrates the context of processing and making sense of raw data for the data science team while maintaining clarity and impact. Let me know if further refinements are needed!
